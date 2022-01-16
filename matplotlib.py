@@ -1,3 +1,7 @@
+*资料https://github.com/TheisTrue/DataAnalysis*
+*其他图形：http://matplotlib.org/gallery/index.html*
+*百度echart*
+
 #使用plot方法绘制折线图
 
 # coding=utf-8
